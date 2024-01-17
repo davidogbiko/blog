@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David&#39;s Blog</title>
+    <link>https://davidogbiko.com/</link>
+    <description>Recent content on David&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jan 2024 17:53:53 +0100</lastBuildDate>
+    <atom:link href="https://davidogbiko.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://davidogbiko.com/posts/first-post/</link>
+      <pubDate>Wed, 17 Jan 2024 17:53:53 +0100</pubDate>
+      <guid>https://davidogbiko.com/posts/first-post/</guid>
+      <description>Hello Again This is the first of many blogs I hope to write on a daily or weekly basis. This would would be technical and contain things I have learnt over the years.</description>
+    </item>
+  </channel>
+</rss>
